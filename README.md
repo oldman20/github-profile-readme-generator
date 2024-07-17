@@ -54,7 +54,7 @@
 
 This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
 
-# [website which roasts your github profile](https://grill-it.vercel.app/)
+# [Website which roasts your github profile](https://grill-it.vercel.app/)
   ```
    Oldman20, a name that’s quite a test, Your GitHub projects, a mixed bag, I must confess. From app clones to DNS scripts, and hackintosh guides too, It’s a wonder you can keep track of them all, it’s true.
 
