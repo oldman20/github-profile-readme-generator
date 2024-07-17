@@ -36,7 +36,6 @@
     <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
 
 <p align="center">
 [website which roasts your github profile](https://grill-it.vercel.app/)
@@ -47,6 +46,7 @@ Your tools and tweaks, a treasure trove to explore, From YouTube mods to iOS app
 
 But amidst the chaos, a glimmer of skill shines through, A knack for automation, and a passion that’s true blue. So here’s to oldman20, a GitHub legend in the making, May your projects continue to thrive, and your code keep on breaking!
   ```
+
 </p>
   
 <p align="center">
