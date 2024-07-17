@@ -39,6 +39,17 @@
 </p>
 
 <p align="center">
+[website which roasts your github profile](https://grill-it.vercel.app/)
+  ```
+   Oldman20, a name that’s quite a test, Your GitHub projects, a mixed bag, I must confess. From app clones to DNS scripts, and hackintosh guides too, It’s a wonder you can keep track of them all, it’s true.
+
+Your tools and tweaks, a treasure trove to explore, From YouTube mods to iOS app dupes, and more, and more. ReVanced builders and side stores, and recovery tools galore, It’s a wonder you don’t get lost in your own GitHub score.
+
+But amidst the chaos, a glimmer of skill shines through, A knack for automation, and a passion that’s true blue. So here’s to oldman20, a GitHub legend in the making, May your projects continue to thrive, and your code keep on breaking!
+  ```
+</p>
+  
+<p align="center">
 <i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
 </p>
 
